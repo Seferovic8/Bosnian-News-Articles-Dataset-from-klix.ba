@@ -1,5 +1,5 @@
 # Bosnian-News-Articles-Dataset-from-klix.ba
-🌍 [🇬🇧 English](https://github.com/Seferovic8/Bosnian-News-Articles-Dataset-from-klix.ba/README.md) | [🇧🇦 Bosnian](https://github.com/Seferovic8/Bosnian-News-Articles-Dataset-from-klix.ba/bs/README.md)
+🌍 [🇬🇧 English](https://github.com/Seferovic8/Bosnian-News-Articles-Dataset-from-klix.ba/blob/main/README.md) &nbsp; | [🇧🇦 Bosnian](https://github.com/Seferovic8/Bosnian-News-Articles-Dataset-from-klix.ba/blob/main/bs/README.md) &nbsp;
 ## Overview
 
 This dataset is a collection of news articles in the Bosnian language sourced from klix.ba, a prominent Bosnian online news portal. The dataset covers a wide range of topics including local and international news, politics, economics, sports, entertainment, and more.
@@ -31,5 +31,8 @@ This dataset can be utilized for various natural language processing tasks such 
 
 ## Accessing the Dataset
 
-You can access and explore the dataset on [GitHub](https://github.com/yourusername/yourrepository) or on [Kaggle](https://www.kaggle.com/yourusername/yourdatasetname).
+You can access and explore the dataset on [GitHub](https://github.com/Seferovic8/Bosnian-News-Articles-Dataset-from-klix.ba) or on [Kaggle](https://www.kaggle.com/datasets/salihseferovic/bosnian-news-articles-dataset-from-klixba).
 
+---
+
+This dataset is intended solely for research purposes and is not affiliated with or endorsed by klix.ba.
