@@ -20,7 +20,7 @@ The dataset is structured as follows:
   - **text**: The text content of the article.
 ## Contents
 
-  - **Number of Articles:** 787290
+  - **Number of Articles:** 786755
   - **Language:** Bosnian
   - **Source:** [klix.ba](https://www.klix.ba)
   - **Topics:** Various (news, politics, economics, sports, entertainment, etc.)
