@@ -22,7 +22,7 @@ Skup podataka je strukturiran na sljedeći način:
 
 ## Sadržaj
 
-  - **Broj članaka:** 787290
+  - **Broj članaka:** 786755
   - **Jezik:** Bosanski
   - **Izvor:** [klix.ba](https://www.klix.ba)
   - **Teme:** Različite (vijesti, politika, ekonomija, sport, zabava, itd.)
