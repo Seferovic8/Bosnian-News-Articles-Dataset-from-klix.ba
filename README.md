@@ -31,7 +31,7 @@ This dataset can be utilized for various natural language processing tasks such 
 
 ## Accessing the Dataset
 
-You can access and explore the dataset on [GitHub](https://github.com/Seferovic8/Bosnian-News-Articles-Dataset-from-klix.ba) or on [Kaggle](https://www.kaggle.com/datasets/salihseferovic/bosnian-news-articles-dataset-from-klixba).
+You can access and explore the dataset on [GitHub](https://github.com/Seferovic8/Bosnian-News-Articles-Dataset-from-klix.ba), [Kaggle](https://www.kaggle.com/datasets/salihseferovic/bosnian-news-articles-dataset-from-klixba), [Hugging Face](https://huggingface.co/datasets/Seferovic/bosnian-news-articles-dataset-from-klixba)
 
 ---
 
