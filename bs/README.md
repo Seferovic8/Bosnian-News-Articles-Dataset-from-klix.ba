@@ -33,7 +33,7 @@ Ovaj skup podataka može biti od koristi za različite zadatke obrade prirodnog 
 
 ## Pristupanje skupu podataka
 
-Skup podataka možete pregledati i istražiti na [GitHubu](https://github.com/Seferovic8/Bosnian-News-Articles-Dataset-from-klix.ba) ili na [Kaggleu](https://www.kaggle.com/datasets/salihseferovic/bosnian-news-articles-dataset-from-klixba).
+Skup podataka možete pregledati i istražiti na [GitHub](https://github.com/Seferovic8/Bosnian-News-Articles-Dataset-from-klix.ba), [Kaggle](https://www.kaggle.com/datasets/salihseferovic/bosnian-news-articles-dataset-from-klixba), [Hugging Face](https://huggingface.co/datasets/Seferovic/bosnian-news-articles-dataset-from-klixba)
 
 ---
 
